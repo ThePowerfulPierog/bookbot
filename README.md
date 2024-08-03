@@ -1,2 +1,2 @@
 # bookbot
-First Guide Project for Python
+BookBot is my first project!
